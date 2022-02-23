@@ -17,5 +17,4 @@ public class VirsrakstaIzvade : MonoBehaviour {
 		tekstaAttelosana.GetComponent<Text> ().text = "Varonim ir " + gadi+" gadi un vińu sauc "+vards+ "!";
 
 	}
-
 }
